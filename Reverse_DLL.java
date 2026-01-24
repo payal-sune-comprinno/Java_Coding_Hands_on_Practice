@@ -2,7 +2,7 @@
 
 class Solution {
     public Node reverse(Node head) {
-        // code here
+        
         Node temp=null;
         Node current=head;
         while(current!=null)
