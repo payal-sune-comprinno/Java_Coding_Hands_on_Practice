@@ -1,6 +1,8 @@
 //Leetcode problem:
 // https://leetcode.com/problems/linked-list-cycle/
 
+//its and linkedlist cycle detection coding problem
+
 
 public class Solution {
     public boolean hasCycle(ListNode head) {
